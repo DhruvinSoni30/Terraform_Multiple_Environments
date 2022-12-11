@@ -4,7 +4,7 @@
 
 Terraform is a free and open-source infrastructure as code (IAC) that can help to automate the deployment, configuration, and management of the remote servers. Terraform can manage both existing service providers and custom in-house solutions.
 
-![1](https://github.com/DhruvinSoni30/Terraform_Multiple_Environments/blob/main/images/terraform.jpeg?raw=true)
+![1](https://github.com/DhruvinSoni30/Terraform_Multiple_Environments/blob/main/images/terraform.jpeg)
 
 ### Prerequisites:
 
@@ -17,7 +17,7 @@ Terraform is a free and open-source infrastructure as code (IAC) that can help t
 
 A Terraform module allows you to create logical abstraction on the top of some resource set. In other words, a module allows you to group resources together and reuse this group later, possibly many times. Terraform module allow us to use the concept of DRY (Don't Repete Yourself). With the use of terraform modules you can write the code for various resources once and reuse them in different environment as per your need!
 
-![2](https://github.com/DhruvinSoni30/Terraform_Multiple_Environments/blob/main/images/module.png?raw=true)
+![2](https://github.com/DhruvinSoni30/Terraform_Multiple_Environments/blob/main/images/module.png)
 
 You can read more details of terraform modules from [here](https://itoutposts.com/blog/terraform-modules-overview/)
 
