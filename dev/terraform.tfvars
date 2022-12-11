@@ -1,0 +1,6 @@
+ami_id            = "ami-0beaa649c482330f7"
+instance_type     = "t2.micro"
+availability_zone = "us-east-2a"
+name              = "Dev_Instance"
+env               = "Dev"
+region            = "us-east-2"
