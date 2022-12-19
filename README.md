@@ -370,5 +370,13 @@ In this tutorial we will take a look at how to use modules and maintain differen
 
 Run below command one by one from each folder i.e. `stg`, `dev` & `prod` and you will see 3 different instances and state file for each environment!
 
+![1](https://github.com/DhruvinSoni30/Terraform_Multiple_Environments/blob/main/images/1.png)
+
+![2](https://github.com/DhruvinSoni30/Terraform_Multiple_Environments/blob/main/images/2.png)
+
+![3](https://github.com/DhruvinSoni30/Terraform_Multiple_Environments/blob/main/images/3.png)
+
+
+
 
 
